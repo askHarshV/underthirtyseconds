@@ -1,7 +1,7 @@
 +++
 title="technology is hell!"
 description="Lineup"
-date=2019-03-26
+date=2022-03-26
 
 [taxonomies]
 tags = ["Gadgets", "Electronics"]

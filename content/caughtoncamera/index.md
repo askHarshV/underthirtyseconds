@@ -1,7 +1,7 @@
 +++
 title="Caught on Camera"
 author=""
-date=2021-06-19
+date=2022-03-19
 
 [taxonomies]
 tags = ["Camera", "Weird"]

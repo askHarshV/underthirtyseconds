@@ -69,7 +69,7 @@ active=true
 
 # Include a text snippet in the sidebar
 # You can format it with HTML
-text_snippet="Some <strong>HTML</strong> here! It's <mark>safe</mark>!"
+text_snippet="We value time and intend to deliver maximum value in least amout of time"
 
 # Author card
 author_bio = "To The Point. No BS!"
