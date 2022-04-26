@@ -58,6 +58,8 @@ social_links = [
     # {url = "https://t.me/underthirtyseconds", name = "telegram"},
     {url = "https://twitter.com/underthirtysec", name = "twitter"},
     {url = "https://www.instagram.com/underthirtysecondsinsta/", name = "instagram"},
+    {url = "https://www.youtube.com/channel/UCFnllAToW0-3bT9aINxnIzA", name = "youtube"},
+    
     # {url = "", name = "facebook"},
 ]
 
