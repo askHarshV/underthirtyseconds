@@ -55,10 +55,9 @@ main_menu = [
 
 # Social media buttons to display. You define a url and the name of the platform.
 social_links = [
-    {url = "https://t.me/underthirtyseconds", name = "telegram"},
-    {url = "https://twitter.com/underthirtyseconds", name = "twitter"},
-    {url = "https://github.com/underthirtyseconds", name = "github"},
-    # {url = "", name = "instagram"},
+    # {url = "https://t.me/underthirtyseconds", name = "telegram"},
+    {url = "https://twitter.com/underthirtysec", name = "twitter"},
+    {url = "https://www.instagram.com/underthirtysecondsinsta/", name = "instagram"},
     # {url = "", name = "facebook"},
 ]
 
@@ -79,7 +78,7 @@ author_avatar = "avatar.png"
 # TODO template
 
 # Embed twitter iframe in the sidebar
-tweets_by="elonmusk"
+tweets_by="underthirtysec"
 
 popular_tags=false
 archive=false
