@@ -13,3 +13,12 @@
 @import 'theme/blog';
 @import 'theme/main';
 @import 'theme/icons';
+
+.youtube{
+    border: 3px solid red;
+    height: 400px;
+}
+
+iframe{
+    position:relative;  height: 100%; width: 100%;
+}

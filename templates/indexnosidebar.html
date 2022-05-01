@@ -9,7 +9,6 @@
 {% import "macros/menu.html" as menu -%}
 {% import "macros/breadcrumbs.html" as breadcrumbs -%}
 {% import "macros/social_buttons.html" as social_buttons -%}
-{% import "macros/sidebar.html" as sidebar -%}
 {% import "macros/theme_switcher.html" as theme_switcher -%}
 {% import "macros/footer.html" as footer -%}
 {%- import "macros/pagination.html" as pagination -%}
@@ -71,49 +70,13 @@
           <section class="container {{ grid_size }}">
             {%- block breadcrumbs -%}
             {%- endblock breadcrumbs -%}
-
-            {%- if config.extra.sidebar.active -%}
-            <div class="columns">
-              <div id="item" class="column col-8 col-md-12 extra-spacing">
-                {%- block content -%}
-                <div class="blog-listing">
-                  {{ lists::list_pages(pages=paginator.pages) }}
-                </div>
-                {%- endblock content -%}
-              </div>
-              <div id="sidebar" class="column col-4 col-md-12">
-                <div class="sidebar-content">
-                  {% if config.extra.sidebar.author_bio %}
-                  {{ sidebar::author_bio(
-                  content=config.extra.sidebar.author_bio,
-                  avatar=config.extra.sidebar.author_avatar
-                  ) }}
-                  {% endif %}{# ./if author_bio #}
-                  {% if config.extra.sidebar.text_snippet -%}
-                    {{ sidebar::text_snippet(content=config.extra.sidebar.text_snippet) }}
-                  {% endif -%}
-                  {% if config.extra.sidebar.tweets_by -%}
-                    {{ sidebar::tweets_by(id=config.extra.sidebar.tweets_by) }}
-                  {% endif -%}
-                  {% if config.extra.sidebar.popular_tags -%}
-                    {{ sidebar::popular_tags() }}
-                  {% endif -%}
-                  {% if config.extra.sidebar.archives -%}
-                    {{ sidebar::archives() }}
-                  {% endif -%}
-                  {% if config.generate_feed -%}
-                    {{ sidebar::syndicate() }}
-                  {% endif -%}
-                </div><!--./sidebar-content-->
-              </div>
-            </div>
-            {% else %}
+            
             <div id="item" class="blog-listing">
             {%- block content -%}
               {{ lists::list_pages(pages=paginator.pages) }}
             {%- endblock content -%}
             </div>
-            {%- endif -%}{# sidebar active? #}
+            
           </section>
         </section>
         {%- endblock main -%}

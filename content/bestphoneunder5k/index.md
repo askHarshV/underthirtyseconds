@@ -39,5 +39,21 @@ fn foo(arg: String) -> Result<u32, Io::Error> {
 
 > Oppo
 
-{{ youtube(id="UUpuz8IObcs") }}
+
+
+{{ youtube(id="UUpuz8IObcs", class="youtube") }}
+\
+this is a full page text this is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page text
+this is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page text
+
+this is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page text
+this is a full page text
+
+this is a full page text
+this is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page text
+this is a full page text
+this is a full page textthis is a full page textthis is a full page text
+
+this is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page textthis is a full page text
+{{ youtube(id="dQw4w9WgXcQ", autoplay=true, class="youtube") }}
 
