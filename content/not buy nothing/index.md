@@ -1,7 +1,7 @@
 +++
 title="Dont Buy Nothing Phone 1..may be 2 or 3"
 description="Why we feel that Nothing Phone is in Not Buy category"
-date=2022-08-02
+date=2022-07-15
 
 [taxonomies]
 tags = ["Mobile"]
