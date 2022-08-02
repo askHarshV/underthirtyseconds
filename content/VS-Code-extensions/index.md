@@ -30,3 +30,6 @@ Following is list of very useful VS Code extensions which you should consider tr
 - **Code Time** - programming metrics right inside VS code.
 
 
+Kindly note VS code is a general purpose editor and by using extensions you can turn the editor into an IDE for the technologies you want to work on. In simple terms, say you are working on python then install *Python* related extensions. Working on java, you can install *Extension Pack for Java*. working on mobile development using Flutter?? dont forget to install **Flutter Widget Snippets**. I think you get the picture.
+
+Thanks for reading and be sure to visit us on our Twitter handle and let us know if we are missing on an awesome extension that is out there in the wild.
