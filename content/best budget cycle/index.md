@@ -1,7 +1,7 @@
 +++
 title="Why LadakhX is best buy from OMO Cycles?"
 description="Best bike at affordable price point"
-date=2022-04-06
+date=2022-06-06
 
 [taxonomies]
 tags = ["Websites", "Apps"]
