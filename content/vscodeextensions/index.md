@@ -8,7 +8,7 @@ tags = ["dev tools"]
 categories = ["Web Development"]
 
 [extra]
-cover_image="banner.png"
+cover_image="banner.jpg"
 +++
 
 Following is list of very useful VS Code extensions which you should consider trying out. Most are self explanatory and a quick lookup in VS Code extensions will do the job for you. However, we are giving a one-liner for each to help you choose the right tool for you and to get started quickly.Will keep this list updated if we happen to stumble upon a extension which we really find useful and use on almost daily basis. 
