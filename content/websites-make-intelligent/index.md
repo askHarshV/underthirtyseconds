@@ -18,7 +18,7 @@ cover_image="banner.jpeg"
     
     Link to website -> [informationisbeautiful](https://informationisbeautiful.net)
 
-2. **Kialo **
+2. **Kialo**
 
     Kialo allows you to see arguments on both sides of any debate in the world. 
 
@@ -88,7 +88,7 @@ cover_image="banner.jpeg"
     Link to website -> [Visual Capitalist](https://visualcapitalist.com)
 
     
-9.  Spacecadet Ventures Roundup
+9.  **Spacecadet Ventures Roundup**
 
     Spacecadet Ventures Roundup aggregates 60+ trends predictions reports for 2022 from across the web. 
 

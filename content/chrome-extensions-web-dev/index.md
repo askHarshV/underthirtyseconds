@@ -70,7 +70,7 @@ cover_image="banner.jpeg"
     Link to website -> [Motion](https://chrome.google.com/webstore/detail/motion-devtools/mnbliiaiiflhmnndmoidhddombbmgcdk)
 
     
-9.  Heurio
+9.  **Heurio**
 
     Perfect for UX check, design & development review, heuristic evaluation, user testing, and more.
 
