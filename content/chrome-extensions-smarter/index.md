@@ -8,7 +8,7 @@ tags = ["Websites", "Apps"]
 categories = ["tools"]
 
 [extra]
-cover_image="banner.jpeg"
+cover_image="banner.png"
 +++
 
 1.  **Summari**
@@ -23,7 +23,7 @@ cover_image="banner.jpeg"
 
     You can even make one-minute summaries when sharing a link to reading materials!
     
-    Link to website -> [Summari](scribe.how/chrome)
+    Link to website -> [Summari](https://chrome.google.com/webstore/detail/summari-for-chrome/hfbolicepmhlpoiabgkpeojpagpcmccc)
 
 2. **Wordtune**
 
@@ -35,7 +35,7 @@ cover_image="banner.jpeg"
     • Expand vocabulary
     • Write clearly
 
-    Link to website -> [Wordtune](https://similarsites.com)
+    Link to website -> [Wordtune](https://chrome.google.com/webstore/detail/wordtune-ai-powered-writi/nllcnknpjnininklegdoijpljgdjkijc)
 
     
 3. **Start.me**
@@ -58,7 +58,7 @@ cover_image="banner.jpeg"
     • Make thematic collections 
     • Sort items by date, title, or site
 
-    
+    Link to website -> [Raindrop](https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien)
     
 5. **News Feed Eradicator**
 
@@ -68,7 +68,7 @@ cover_image="banner.jpeg"
 
     All of a sudden you’ll get hours of your day back.
 
-   
+    Link to website -> [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg)
     
 6. **Forest**
 
@@ -77,18 +77,15 @@ cover_image="banner.jpeg"
     Forest team partners with a real-tree planting organization to plant trees when you focus. 
 
     It’s like a phone game that gives you time rather than taking it away from you.
-
    
-    
-7. **Check Plus**
+    Link to website -> [Forest](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
 
-    Get notifications, read, listen to or delete emails without opening Gmail and easily manage multiple accounts.
+7. **Mail Tracker**
 
-    Not having to leave the window you’re in to respond to emails is a massive time saver. 
+   Know when your mail are opened
 
-    You’ll work faster and more efficiently with Check Plus.
+   Link to website -> [Mail Tracker](https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb)
    
-
     
 8. **Momentum**
 
@@ -100,7 +97,8 @@ cover_image="banner.jpeg"
     • View beautiful scenery daily 
     • Have your to-do list readily available
 
-    
+    Link to website -> [Mail Tracker](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
+
 9.  **Screenity**
 
     If you work in a team or teach, you will benefit from Screenity—it’s the most powerful screen recorder for Chrome. 
@@ -111,7 +109,7 @@ cover_image="banner.jpeg"
     • Export to anywhere
     • Highlight clicks
 
-    Link to website -> [Heurio](https://heurio.co)
+    Link to website -> [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 
 10. **Mote**
 
@@ -122,3 +120,5 @@ cover_image="banner.jpeg"
     • Create voice notes for any website or app
     • Embed recordings in Notion or Google
     • Integrate with all your favorite apps
+
+    Link to website -> [Mote](https://chrome.google.com/webstore/detail/mote-voice-notes-feedback/ajphlblkfpppdpkgokiejbjfohfohhmk)

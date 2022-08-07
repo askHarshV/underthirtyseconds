@@ -8,7 +8,7 @@ tags = ["Websites", "Apps"]
 categories = ["tools"]
 
 [extra]
-cover_image="banner.jpeg"
+cover_image="banner.png"
 +++
 
 1.  **Information is beautiful**
