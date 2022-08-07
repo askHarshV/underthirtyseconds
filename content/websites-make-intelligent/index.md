@@ -76,7 +76,7 @@ cover_image="banner.png"
 
     You can do it all—Virtually—from your living room with Google Arts & Culture. 
 
-    Link to website -> [Google Arts & Culture](artsandculture.google.com)
+    Link to website -> [Google Arts & Culture](https://artsandculture.google.com/)
 
     
 8. **Visual Capitalist**
@@ -94,7 +94,7 @@ cover_image="banner.png"
 
     It includes trends on the Economy, Social Media, Hardware, Travel, Crypto, Politics, and much more!  
 
-    Link to website -> [Spacecadet Ventures Roundup](spacecadet.ventures/2022roundup/)
+    Link to website -> [Spacecadet Ventures Roundup](https://spacecadet.ventures/)
 
     
 10. **Project Gutenberg**
