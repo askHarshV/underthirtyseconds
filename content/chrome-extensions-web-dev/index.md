@@ -8,7 +8,7 @@ tags = ["Websites", "Apps"]
 categories = ["tools"]
 
 [extra]
-cover_image="banner.jpeg"
+cover_image="banner.png"
 +++
 
 1.  **ScribeHow**
@@ -17,27 +17,27 @@ cover_image="banner.jpeg"
 
     You don't need to explain the process manually. Just record it, and the ScribeHow extension will convert it into a guide.
     
-    Link to website -> [ScribeHow](scribe.how/chrome)
+    Link to website -> [Scribe](https://chrome.google.com/webstore/detail/scribe-%E2%80%94-documentation-so/okfkdaglfjjjfefdcppliegebpoegaii)
 
 2. **Similar sites**
 
     Discover similar sites & topics while browsing particular websites.
 
-    Link to website -> [Similar sites](https://similarsites.com)
+    Link to website -> [Similar sites](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)
 
     
 3. **Checkbot**
 
     Checkbot finds SEO, speed & security problems before your website visitors do
     
-    Link to website -> [Checkbot](https://checkbot.io)
+    Link to website -> [Checkbot](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
     
 4. **Wappalyzer**
 
     Find out the technology stack of any website.
 
-    Link to website -> [Wappalyzer](wappalyzer.com)
+    Link to website -> [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
 
     
 5. **Marker**
