@@ -82,6 +82,29 @@
             {%- block breadcrumbs -%}
             {%- endblock breadcrumbs -%}
 
+
+            <script type="text/javascript">
+              const titles = ["Product Reviews.","App Reviews.","Productivity tools."];
+              var i=0;
+              function selecttitle(){
+                console.log("i",i) ;
+                if(i == titles.length){
+                  i=0;
+                }
+                const hb =  document.getElementById("herobanner");
+                hb.innerHTML = "<h1><b>To the Point </b>"+ titles[i%5] + "  </h1>";
+                //console.log(document.getElementById("herobanner").innerHtml);
+                i=i+1;
+              }
+              setInterval(selecttitle,2000);
+              </script>
+            <div class="col-12" style="height:100px;">
+
+              <div id="herobanner"></div>
+            </div>
+
+          
+
             {%- if config.extra.sidebar.active -%}
             <div class="columns">
               <div id="item" class="column col-8 col-md-12 extra-spacing">
