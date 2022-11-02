@@ -20,3 +20,13 @@ cover_image="banner.png"
 7. Hemingway Editor \
 8. Twemex \
 9. Rhymezone 
+
+Copywriting
+1. SuperBlog
+2. Readable.com
+3. ShareThrough
+4. Swiped
+5. goodemailcopy.com
+6. goodsalesemails.com
+7. marketingexamples.com
+
